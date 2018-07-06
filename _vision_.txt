@@ -1,0 +1,11 @@
+Ideas from over2sd:
+	A database with Web/Android forms allowing members to post or fulfill offers/requests for produce, work performed, furniture or other goods, or storage space
+	Storage space and produce offers have expiration dates to prevent old produce from remaining "in stock" and to prevent storage from being kept full indefinitely.
+	
+
+Ideas from Dandroid87:
+
+
+Established wishlist:
+	Web site for ministry (PHP? Stored on designated server, not Git?)
+	Member roster
